@@ -1,1 +1,32 @@
+print(2+5/10*2)
+print(6%2) 
+print(6**2)
+print((2**2)+(2+9))
 
+x=10
+y=100.05
+
+print(x+y)
+
+z='Hello World'
+print(z)
+
+print(type(x))
+print(type(y))
+print (type(z))
+
+abcde=3723.32
+print(abcde)
+print(type(abcde))
+
+points_obtained = 29
+total_points = 40
+percentage = (points_obtained/total_points)*100
+
+print(percentage)
+
+
+Student_A = 'I am a UB Student'
+print(Student_A[0])
+print(Student_A[-1])
+print(Student_A[-2])
